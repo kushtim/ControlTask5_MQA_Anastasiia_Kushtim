@@ -1,6 +1,6 @@
 https://kushtim-anastasiia.atlassian.net/wiki/spaces/ETSY/pages
 
-Документ PDF с Test Cases и RTM не скачивается, останавливается на 50%
+Экспорт документ Test Cases и RTM в PDF не возможен, скачивание останавливается на 50%
 
 https://kushtim-anastasiia.atlassian.net/wiki/spaces/ETSY/pages/98734/RTM
 
