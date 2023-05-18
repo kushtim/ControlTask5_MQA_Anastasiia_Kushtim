@@ -1,6 +1,11 @@
+Module8_Lesson9
 https://kushtim-anastasiia.atlassian.net/jira/software/projects/SAUC/boards/2
 
 backlog: https://kushtim-anastasiia.atlassian.net/jira/software/projects/SAUC/boards/2/backlog
 
-
 https://drive.google.com/drive/folders/1xyPOn6teFPiAiIEa8F-RIyjl7a-trD4r
+
+Module8_Lesson3
+https://kushtim-anastasiia.atlassian.net/jira/software/projects/FE/boards/1
+
+https://drive.google.com/drive/folders/1j5imJzpjkraUj8NMeLmB_AtnQuVQoYa7
